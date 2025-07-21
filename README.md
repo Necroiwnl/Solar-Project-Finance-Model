@@ -29,7 +29,7 @@ Net Present Value (NPV)
 
 Payback Period
 
-8.1 Years
+2 Years
 
 Tools Used
 Microsoft Excel: For financial modeling and calculations.
